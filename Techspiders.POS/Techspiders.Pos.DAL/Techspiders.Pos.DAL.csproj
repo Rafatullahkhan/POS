@@ -65,12 +65,22 @@
     <Compile Include="Migrations\201812240724220_CustomersSalesInvoicesSaleItems.Designer.cs">
       <DependentUpon>201812240724220_CustomersSalesInvoicesSaleItems.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201812240753094_product image.cs" />
+    <Compile Include="Migrations\201812240753094_product image.Designer.cs">
+      <DependentUpon>201812240753094_product image.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201812240801109_saleitems.cs" />
+    <Compile Include="Migrations\201812240801109_saleitems.Designer.cs">
+      <DependentUpon>201812240801109_saleitems.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="PosDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
@@ -82,6 +92,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201812240724220_CustomersSalesInvoicesSaleItems.resx">
       <DependentUpon>201812240724220_CustomersSalesInvoicesSaleItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201812240753094_product image.resx">
+      <DependentUpon>201812240753094_product image.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201812240801109_saleitems.resx">
+      <DependentUpon>201812240801109_saleitems.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

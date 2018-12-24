@@ -19,9 +19,9 @@ namespace Techspiders.Pos.DAL.Entities
         public decimal SalePrice { get; set; }
         public decimal UnitDiscount { get; set; }
         [ForeignKey("Products")]
-        public int ProductsId { get; set; }
+        public int ProductId { get; set; }
         [ForeignKey("SalesInvoice")]
-        public int SalesInvoiceId { get; set; }
+        public int SaleInvoiceId { get; set; }
 
 
         public Products Products { get; set; }

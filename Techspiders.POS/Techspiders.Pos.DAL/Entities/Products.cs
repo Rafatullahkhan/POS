@@ -16,7 +16,7 @@ namespace Techspiders.Pos.DAL.Entities
         [Required]
         public long BarCode{ get; set; }
         [Required]
-        public  byte Image{ get; set; }
+        public  byte[] Image{ get; set; }
         [Required]
         public int Quantity{ get; set; }
         [Required]
