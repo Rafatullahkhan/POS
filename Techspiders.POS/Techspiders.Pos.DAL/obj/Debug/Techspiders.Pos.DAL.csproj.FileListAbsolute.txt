@@ -1,0 +1,34 @@
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.Pos.DAL\bin\Debug\Techspiders.Pos.DAL.dll.config
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.Pos.DAL\bin\Debug\Techspiders.Pos.DAL.dll
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.Pos.DAL\bin\Debug\Techspiders.Pos.DAL.pdb
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.Pos.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.Pos.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.Pos.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.Pos.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.csprojAssemblyReference.cache
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.csproj.CopyComplete
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.dll
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.pdb
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.Migrations.Categoriestable.resources
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.csproj.GenerateResource.cache
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.Migrations.Productstable.resources
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.Migrations.CustomersSalesInvoicesSaleItems.resources
+C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.Pos.DAL\bin\Debug\Techspiders.Pos.DAL.dll.config
+C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.Pos.DAL\bin\Debug\Techspiders.Pos.DAL.dll
+C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.Pos.DAL\bin\Debug\Techspiders.Pos.DAL.pdb
+C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.Pos.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.Pos.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.Pos.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.Pos.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.Migrations.Categoriestable.resources
+C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.Migrations.Productstable.resources
+C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.Migrations.CustomersSalesInvoicesSaleItems.resources
+C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.csproj.GenerateResource.cache
+C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.csproj.CopyComplete
+C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.dll
+C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.pdb
+C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.csprojAssemblyReference.cache
+C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.Migrations.productimage.resources
+C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.Pos.DAL\obj\Debug\Techspiders.Pos.DAL.Migrations.saleitems.resources

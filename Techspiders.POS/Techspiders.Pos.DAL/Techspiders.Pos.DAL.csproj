@@ -31,7 +31,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -41,7 +48,57 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Category.cs" />
+    <Compile Include="Entities\Customers.cs" />
+    <Compile Include="Entities\Products.cs" />
+    <Compile Include="Entities\SaleItems.cs" />
+    <Compile Include="Entities\SalesInvoice.cs" />
+    <Compile Include="Migrations\201812240720033_Categoriestable.cs" />
+    <Compile Include="Migrations\201812240720033_Categoriestable.Designer.cs">
+      <DependentUpon>201812240720033_Categoriestable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201812240722340_Productstable.cs" />
+    <Compile Include="Migrations\201812240722340_Productstable.Designer.cs">
+      <DependentUpon>201812240722340_Productstable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201812240724220_CustomersSalesInvoicesSaleItems.cs" />
+    <Compile Include="Migrations\201812240724220_CustomersSalesInvoicesSaleItems.Designer.cs">
+      <DependentUpon>201812240724220_CustomersSalesInvoicesSaleItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201812240753094_product image.cs" />
+    <Compile Include="Migrations\201812240753094_product image.Designer.cs">
+      <DependentUpon>201812240753094_product image.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201812240801109_saleitems.cs" />
+    <Compile Include="Migrations\201812240801109_saleitems.Designer.cs">
+      <DependentUpon>201812240801109_saleitems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="PosDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201812240720033_Categoriestable.resx">
+      <DependentUpon>201812240720033_Categoriestable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201812240722340_Productstable.resx">
+      <DependentUpon>201812240722340_Productstable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201812240724220_CustomersSalesInvoicesSaleItems.resx">
+      <DependentUpon>201812240724220_CustomersSalesInvoicesSaleItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201812240753094_product image.resx">
+      <DependentUpon>201812240753094_product image.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201812240801109_saleitems.resx">
+      <DependentUpon>201812240801109_saleitems.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
