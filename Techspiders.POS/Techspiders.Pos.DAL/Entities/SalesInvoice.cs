@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Techspiders.Pos.DAL.Entities
 {
-    class SalesInvoice
+    public class SalesInvoice
     {
         public int  Id{ get; set; }
         [Required]

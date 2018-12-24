@@ -161,3 +161,24 @@ C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.POS.WEBUI\obj\
 C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.POS.WEBUI\obj\Debug\Techspiders.POS.WEBUI.dll
 C:\Users\Tech Spiders\Desktop\POS\POS\Techspiders.POS\Techspiders.POS.WEBUI\obj\Debug\Techspiders.POS.WEBUI.pdb
 >>>>>>> 4d2f7a663c2bafd9cdb54b9f047c2713dd458e6b
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\EntityFramework.dll
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\System.Net.Http.dll
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\Techspiders.POS.API.dll
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\Techspiders.Pos.DAL.dll
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\System.Web.Http.dll
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\Techspiders.POS.API.pdb
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\Techspiders.POS.API.dll.config
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\Techspiders.Pos.DAL.pdb
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\Techspiders.Pos.DAL.dll.config
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\EntityFramework.xml
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\System.Web.Http.xml
+C:\Users\Hasnat\Desktop\Repos\POS\Techspiders.POS\Techspiders.POS.WEBUI\bin\System.Web.Http.WebHost.xml

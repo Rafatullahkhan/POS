@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Techspiders.Pos.DAL.Entities
 {
-    class Category
+    public class Category
     {
         public int Id { get; set; }
         [Required]

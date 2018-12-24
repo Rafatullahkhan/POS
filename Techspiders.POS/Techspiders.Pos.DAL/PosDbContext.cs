@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Techspiders.Pos.DAL.Entities;
 namespace Techspiders.Pos.DAL
 {
-    class PosDbContext : DbContext
+    public class PosDbContext : DbContext
     {
         public DbSet<Category> Categories { get; set; }
         public DbSet<Products> Products { get; set; }
